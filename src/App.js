@@ -20,7 +20,7 @@ function App() {
           <nav>
             <ul className="header-nav">
               <li className="header-nav-item">
-                <a href="#">
+                <a href="/#">
                   ♡
                   {/*                 ♥*/}
                   {/*Quem deu like nas minhas fotos?*/}
@@ -37,7 +37,7 @@ function App() {
           <div className="foto">
             <header className="foto-header">
               <figure className="foto-usuario">
-                <img src="https://instagram.fcgh10-1.fna.fbcdn.net/t51.2885-19/11199408_569104449895751_1837574990_a.jpg" alt="foto do usuario"/>
+                <img src="https://image.freepik.com/vetores-gratis/perfil-de-avatar-de-homem-no-icone-redondo_24640-14044.jpg" alt="foto do usuario"/>
                 <figcaption className="foto-usuario">
                   <a href="#">
                     alots
@@ -47,7 +47,7 @@ function App() {
               <time className="foto-data">03/10/2016 20:13</time>
             </header>
 
-            <img alt="foto" className="foto-src" src="https://instagram.fcgh10-1.fna.fbcdn.net/t51.2885-15/e35/14482111_1635089460122802_8984023070045896704_n.jpg?ig_cache_key=MTM1MzEzNjM4NzAxMjIwODUyMw%3D%3D.2"/>
+            <img alt="foto" className="foto-src" src="https://image.freepik.com/fotos-gratis/a-paisagem-bonita-do-sol-da-praia-com-um-barco_1112-212.jpg"/>
 
             <div className="foto-info">
               <div className="foto-info-likes">
@@ -105,7 +105,7 @@ function App() {
           <div className="foto">
             <header className="foto-header">
               <figure className="foto-usuario">
-                <img src="https://instagram.fcgh10-1.fna.fbcdn.net/t51.2885-19/11199408_569104449895751_1837574990_a.jpg" alt="foto do usuario"/>
+                <img src="https://image.freepik.com/vetores-gratis/perfil-de-avatar-de-homem-no-icone-redondo_24640-14044.jpg" alt="foto do usuario"/>
                 <figcaption className="foto-usuario">
                   <a href="#">
                     alots
@@ -115,7 +115,7 @@ function App() {
               <time className="foto-data">03/10/2016 20:13</time>
             </header>
 
-            <img alt="foto" className="foto-src" src="https://instagram.fcgh10-1.fna.fbcdn.net/t51.2885-15/e35/14482111_1635089460122802_8984023070045896704_n.jpg?ig_cache_key=MTM1MzEzNjM4NzAxMjIwODUyMw%3D%3D.2"/>
+            <img alt="foto" className="foto-src" src="https://image.freepik.com/fotos-gratis/a-paisagem-bonita-do-sol-da-praia-com-um-barco_1112-212.jpg"/>
 
             <div className="foto-info">
               <div className="foto-info-likes">
@@ -173,7 +173,7 @@ function App() {
           <div className="foto">
             <header className="foto-header">
               <figure className="foto-usuario">
-                <img src="https://instagram.fcgh10-1.fna.fbcdn.net/t51.2885-19/11199408_569104449895751_1837574990_a.jpg" alt="foto do usuario"/>
+                <img src="https://image.freepik.com/vetores-gratis/perfil-de-avatar-de-homem-no-icone-redondo_24640-14044.jpg" alt="foto do usuario"/>
                 <figcaption className="foto-usuario">
                   <a href="#">
                     alots
@@ -183,7 +183,7 @@ function App() {
               <time className="foto-data">03/10/2016 20:13</time>
             </header>
 
-            <img alt="foto" className="foto-src" src="https://instagram.fcgh10-1.fna.fbcdn.net/t51.2885-15/e35/14482111_1635089460122802_8984023070045896704_n.jpg?ig_cache_key=MTM1MzEzNjM4NzAxMjIwODUyMw%3D%3D.2"/>
+            <img alt="foto" className="foto-src" src="https://image.freepik.com/fotos-gratis/a-paisagem-bonita-do-sol-da-praia-com-um-barco_1112-212.jpg"/>
 
             <div className="foto-info">
               <div className="foto-info-likes">
