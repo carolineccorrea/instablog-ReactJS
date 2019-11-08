@@ -84,7 +84,7 @@ class Foto extends Component {
             <div className="foto">
             <Header/>
 
-            <img alt="foto" className="foto-src" src="https://image.freepik.com/fotos-gratis/campo-de-flores-de-papoula-no-por-do-sol_8353-9433.jpg"/>
+            <img alt="foto" className="foto-src" src={this.props.foto}/>
 
             <FotoInfo/>
             <FotoAtt/>
